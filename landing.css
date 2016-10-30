@@ -1,0 +1,47 @@
+body { 
+	 background-image: url(banner-bg-u146-fr.jpg); 
+	 
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 
+
+	}
+
+
+	header {
+
+		text-align: center;
+		font-size: 80px;
+		
+	}
+
+
+	
+
+		li {
+			float: left;
+list-style: none;
+
+height: 30px;
+width: 100 %;
+font-size: 18px;
+text-align: center;
+margin: 20px;
+
+		}
+
+
+	.thebigone {
+	 background-image: url(banner-bg-u146-fr.jpg); 
+	 
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	  width: 100%;
+	margin-bottom:10px;
+		
+
+	}
+
+	div {
+	 display: inline-block;
+	float:left; }
